@@ -60,6 +60,15 @@ Explore and showcase the top GitHub user avatars in a modern, interactive grid. 
    docs/index.html
    ```
 
+## Build the Docs
+
+```
+cd doc
+make html
+```
+
+Files will be in the `build` folder.
+
 ---
 
 ## ⚙️ Configuration
